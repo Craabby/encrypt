@@ -427,3 +427,5 @@ class Encryption {
     return ~~(Math.random() * input);
   }
 }
+
+module.exports = Encryption;
