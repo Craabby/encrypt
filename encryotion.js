@@ -428,4 +428,5 @@ class Encryption {
   }
 }
 
+export default Encryption;
 module.exports = Encryption;
